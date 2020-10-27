@@ -1,0 +1,98 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="add_circle-black-48dp">
+    <path d="M0 0h24v24H0V0z" fill="none"></path>
+    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="close-24px">
+    <path d="M0 0h24v24H0V0z" fill="none"></path>
+    <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="favorite-black-48dp">
+    <path d="M0 0h24v24H0V0z" fill="none"></path>
+    <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="folder_open-24px">
+    <path d="M0 0h24v24H0V0z" fill="none"></path>
+    <path d="M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm0 12H4V8h16v10z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="get_app-black-48dp">
+    <path d="M0 0h24v24H0V0z" fill="none"></path>
+    <path d="M13 5v6h1.17L12 13.17 9.83 11H11V5h2m2-2H9v6H5l7 7 7-7h-4V3zm4 15H5v2h14v-2z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="headset-24px">
+    <path d="M0 0h24v24H0V0z" fill="transparent"></path>
+    <path d="M19 14v3c0 .55-.45 1-1 1h-1v-4h2M7 14v4H6c-.55 0-1-.45-1-1v-3h2m5-13a9 9 0 0 0-9 9v7c0 1.66 1.34 3 3 3h3v-8H5v-2c0-3.87 3.13-7 7-7s7 3.13 7 7v2h-4v8h3c1.66 0 3-1.34 3-3v-7a9 9 0 0 0-9-9z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="keyboard_backspace-black-48dp">
+    <path d="M0 0h24v24H0V0z" fill="none"></path>
+    <path d="M21 11H6.83l3.58-3.59L9 6l-6 6 6 6 1.41-1.41L6.83 13H21v-2z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="music_note-black-24dp">
+    <path d="M0 0h24v24H0V0z" fill="transparent"></path>
+    <path d="M12 3l.01 10.55c-.59-.34-1.27-.55-2-.55a4.001 4.001 0 1 0 0 8c2.22 0 3.99-1.79 3.99-4V7h4V3h-6zm-1.99 16c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="music-playero">
+    <path d="M501.969 5.638A23.063 23.063 0 0 0 483.603.231L160.83 46.341c-11.359 1.623-19.795 11.351-19.795 22.825v270.309c-13.656-7.956-29.509-12.537-46.421-12.537-51.021 0-92.531 41.51-92.531 92.531S43.592 512 94.613 512s92.531-41.51 92.531-92.531V181.383l276.663-39.523v151.504c-13.656-7.956-29.509-12.537-46.421-12.537-51.021 0-92.531 41.51-92.531 92.531 0 51.021 41.51 92.531 92.531 92.531s92.531-41.51 92.531-92.531V23.055a23.05 23.05 0 0 0-7.948-17.417z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="music-player">
+    <path d="M501.969 5.638A23.063 23.063 0 0 0 483.603.231L160.83 46.341c-11.359 1.623-19.795 11.351-19.795 22.825v270.309c-13.656-7.956-29.509-12.537-46.421-12.537-51.021 0-92.531 41.51-92.531 92.531S43.592 512 94.613 512s92.531-41.51 92.531-92.531V181.383l276.663-39.523v151.504c-13.656-7.956-29.509-12.537-46.421-12.537-51.021 0-92.531 41.51-92.531 92.531 0 51.021 41.51 92.531 92.531 92.531s92.531-41.51 92.531-92.531V23.055a23.05 23.05 0 0 0-7.948-17.417z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="" id="pause-white-48dp">
+    <path d="M0 0h24v24H0V0z" fill="none"></path>
+    <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="" id="play_arrow-white-48dp">
+    <path d="M0 0h24v24H0V0z" fill="none"></path>
+    <path d="M10 8.64L15.27 12 10 15.36V8.64M8 5v14l11-7L8 5z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="plus">
+    <path d="M492 236H276V20c0-11.046-8.954-20-20-20s-20 8.954-20 20v216H20c-11.046 0-20 8.954-20 20s8.954 20 20 20h216v216c0 11.046 8.954 20 20 20s20-8.954 20-20V276h216c11.046 0 20-8.954 20-20s-8.954-20-20-20z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#ccc" id="queue_music-black-48dp">
+    <path d="M0 0h24v24H0z" fill="none"></path>
+    <path d="M15 6H3v2h12V6zm0 4H3v2h12v-2zM3 16h8v-2H3v2zM17 6v8.18c-.31-.11-.65-.18-1-.18-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3V8h3V6h-5z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#ccc" id="replay-black-48dp">
+    <path d="M0 0h24v24H0z" fill="none"></path>
+    <path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#fe0095" id="skip_next">
+    <path d="M0 0h24v24H0V0z" fill="none"></path>
+    <path d="M6 18l8.5-6L6 6v12zm2-8.14L11.03 12 8 14.14V9.86zM16 6h2v12h-2z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#fe0095" id="skip_next-black">
+    <path d="M0 0h24v24H0V0z" fill="none"></path>
+    <path d="M6 18l8.5-6L6 6v12zm2-8.14L11.03 12 8 14.14V9.86zM16 6h2v12h-2z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#fe0095" id="skip_previous">
+    <path d="M0 0h24v24H0V0z" fill="none"></path>
+    <path d="M6 6h2v12H6zm3.5 6l8.5 6V6l-8.5 6zm6.5 2.14L12.97 12 16 9.86v4.28z">
+    </path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="star-black-48dp">
+    <g fill="none">
+      <path d="M0 0h24v24H0V0z"></path>
+      <path d="M0 0h24v24H0V0z"></path>
+    </g>
+    <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="tv-24px">
+    <path d="M0 0h24v24H0V0z" fill="none"></path>
+    <path d="M21 3H3c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h5v2h8v-2h5c1.1 0 1.99-.9 1.99-2L23 5c0-1.1-.9-2-2-2zm0 14H3V5h18v12z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="vertical_align_bottom-black-48dp">
+    <path d="M0 0h24v24H0V0z" fill="none"></path>
+    <path d="M16 13h-3V3h-2v10H8l4 4 4-4zM4 19v2h16v-2H4z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#fff" id="volume_down-white-48dp">
+    <path d="M0 0h24v24H0V0z" fill="none"></path>
+    <path d="M16 7.97v8.05c1.48-.73 2.5-2.25 2.5-4.02A4.5 4.5 0 0 0 16 7.97zM5 9v6h4l5 5V4L9 9H5zm7-.17v6.34L9.83 13H7v-2h2.83L12 8.83z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#ccc" id="volume_up-white-48dp">
+    <path d="M0 0h24v24H0V0z" fill="none"></path>
+    <path d="M3 9v6h4l5 5V4L7 9H3zm7-.17v6.34L7.83 13H5v-2h2.83L10 8.83zM16.5 12A4.5 4.5 0 0 0 14 7.97v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77 0-4.28-2.99-7.86-7-8.77z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="warning">
+    <path d="M501.609 384.603L320.543 51.265c-13.666-23.006-37.802-36.746-64.562-36.746-26.76 0-50.896 13.74-64.562 36.746-.103.176-.19.352-.293.528L10.662 384.076c-13.959 23.491-14.223 51.702-.719 75.457 13.535 23.769 37.919 37.948 65.266 37.948h360.544c27.347 0 52.733-14.179 66.267-37.948 13.504-23.754 13.241-51.967-.411-74.93zM225.951 167.148c0-16.586 13.445-30.03 30.03-30.03 16.586 0 30.03 13.445 30.03 30.03v120.121c0 16.584-13.445 30.03-30.03 30.03s-30.03-13.447-30.03-30.03V167.148zm30.03 270.273c-24.839 0-45.046-20.206-45.046-45.046 0-24.839 20.206-45.045 45.046-45.045 24.839 0 45.045 20.206 45.045 45.045.001 24.839-20.205 45.046-45.045 45.046z"></path>
+  </symbol>
+</svg>
