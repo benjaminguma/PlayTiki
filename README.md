@@ -2,6 +2,8 @@
 
 a music playlayer with audio visualization features
 
+> visit -[web application here](http://playtiki.herokuapp.com) - chekout the app
+
 ### Installing
 
 ```
